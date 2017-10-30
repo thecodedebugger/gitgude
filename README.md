@@ -23,9 +23,7 @@ Starting your own project with others? Learn about the [Basic Workflow](https://
 
 * [Fixing PR when other changes get merged leading to conflicts](#fixing-pr-when-other-changes-get-merged-leading-to-conflicts)
 
-* [Undoing Commits](#undoing-commits)
 
-* [Merge Conflicts - why and how to remove](#merge-conflicts)
 
 
 

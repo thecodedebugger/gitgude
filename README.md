@@ -9,7 +9,7 @@ Starting your own project with others? Learn about the [Basic Workflow](https://
 ##Table of Contents:
 * [Setting Up Git/Github on your machine](https://github.com/chhavip/Git-Guide/blob/master/Setting%20Up.md)
 
-* [Common Terms](#common-terms)
+
 
 * [Setting up - First Time User](#set-up)
 

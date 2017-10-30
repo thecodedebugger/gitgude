@@ -15,7 +15,6 @@ This is a guide containing tools and tricks every developer starting on the open
 
 * [Branching and Pull Requests](#branching-and-pull-request)
 
-* [Fixing PR when other changes get merged leading to conflicts](#fixing-pr-when-other-changes-get-merged-leading-to-conflicts)
 
 
 

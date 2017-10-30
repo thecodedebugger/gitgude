@@ -11,7 +11,6 @@ This is a guide containing tools and tricks every developer starting on the open
 
 * [Forking an existing project and making changes](#forking-a-project-and-making-changes)
 
-* [Connecting to original project](#setting-up-upstream)
 
 * [Branching and Pull Requests](#branching-and-pull-request)
 

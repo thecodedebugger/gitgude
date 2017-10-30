@@ -7,7 +7,7 @@ This is a guide containing tools and tricks every developer starting on the open
 
 
 
-* [Setting up - First Time User](#set-up)
+
 
 * [Forking an existing project and making changes](#forking-a-project-and-making-changes)
 

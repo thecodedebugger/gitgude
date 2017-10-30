@@ -11,7 +11,7 @@ Starting your own project with others? Learn about the [Basic Workflow](https://
 
 * [Common Terms](#common-terms)
 
-* [Setting up - First Time User](#set-up)
+
 
 * [Forking an existing project and making changes](#forking-a-project-and-making-changes)
 
